@@ -1,0 +1,10 @@
+2025-05-01 14:41:05,437 - INFO - Cleaning data: removing rows with missing target
+2025-05-01 14:41:05,437 - INFO - Detecting data types
+2025-05-01 14:41:05,437 - INFO - Handling outliers using: iqr
+2025-05-01 14:41:05,437 - INFO - Extracting datetime features
+2025-05-01 14:41:05,450 - INFO - Building preprocessor pipeline
+2025-05-01 14:41:05,451 - INFO - Applying pipeline transformation
+2025-05-01 14:41:05,458 - INFO - Splitting data
+2025-05-01 14:41:05,458 - INFO - Saving pipeline to demo_pipeline.pkl
+2025-05-01 14:41:05,458 - INFO - Loading pipeline from demo_pipeline.pkl
+2025-05-01 14:41:05,469 - INFO - Transforming new data with fitted pipeline.
